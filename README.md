@@ -1,0 +1,1 @@
+This project aims to design and develop a machine learning–based predictive policing system for the London Metropolitan Police District that leverages open government datasets to identify potential crime hotspots and patterns. The goal is to enhance data-driven decision-making in law enforcement through spatial, temporal, and socioeconomic insights.
