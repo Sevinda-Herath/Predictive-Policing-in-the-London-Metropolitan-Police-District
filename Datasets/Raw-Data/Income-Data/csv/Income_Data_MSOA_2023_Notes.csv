@@ -1,0 +1,10 @@
+Notes related to the data in this spreadsheet,Unnamed: 1
+This worksheet contains one table. ,
+Note number ,Note text
+1,Financial year ending (FYE) 2023 refers to the period between 1st April 2022 to 31st March 2023.
+2,No estimates have been produced for financial year ending 2021 and financial year ending 2022 due to uncertainty with underlying data during the Coronavirus Pandemic. For further information please see the FRS Technical Report.
+3,"The Family Resources Survey, underwent a sample boost in the FYE 2023 which took the sample to 25,000 households, which was 30% above levels seen in the years prior to the COVID-19 pandemic (typically 20,000). As a result, the precision of income estimates for FYE 2023 is expected to be higher."
+4,This workbook uses MSOA codes used by ONS from Census 2021. These are made up of unchanged 2011 MSOAs and new 2021 MSOAs. 
+5,Caution should be applied when interpreting trends over time as the methodology used to produce the estimates is optimised for point-in-time estimates and not for estimating change.
+6,"Although income before housing costs is typically higher than income after housing costs, this may not always appear to be the case in the dataset due to differences in scaling factors and deflators applied to each measure. Please see the HBAI Quality and Methodology Information Report for more details."
+7,"A confidence interval gives an indication of the degree of uncertainty of an estimate and helps to decide how precise a sample estimate is. It specifies a range of values likely to contain the unknown population value. These values are defined by lower and upper limits. Confidence intervals describe only the uncertainty from sampling; they do not account for all possible errors, and wider intervals indicate less precise estimates that should be interpreted with greater caution."
