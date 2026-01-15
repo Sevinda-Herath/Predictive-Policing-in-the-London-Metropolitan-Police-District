@@ -9,5 +9,8 @@ metadata
 /Datasets/Raw-Data/Police-Data/police_data_2020_2022.zip
 /Datasets/Raw-Data/Police-Data/police_data_2022_2024.zip
 /Datasets/Raw-Data/Unemployment-Data/Unemployment_Data_2021.zip
+/Datasets/Raw-Data/Map-Data/LSOA_to_MSOA_Lookup_2021.zip
+/Datasets/Raw-Data/Map-Data/PCD_OA21_LSOA21_MSOA21_LAD_NOV25_UK_LU.csv
 
 /Datasets/Data-For-Processing/Police-Data/*
+/Datasets/Data-For-Processing/Map-Data/LSOA_to_MSOA_Lookup.csv
