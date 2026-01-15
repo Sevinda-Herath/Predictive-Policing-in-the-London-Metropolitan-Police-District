@@ -1,3 +1,0 @@
-#### 4. 1. 2. Read the combined police street data CSV
-#### 4. 1. 2.  Rename Police Data Columns for Clarity
-#### 4. 1. 4. Cheack For Null Values
