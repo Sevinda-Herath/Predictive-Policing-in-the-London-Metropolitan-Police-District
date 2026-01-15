@@ -15,7 +15,7 @@ metadata
 /Datasets/Data-For-Processing/Police-Data/*
 /Datasets/Data-For-Processing/Map-Data/LSOA_to_MSOA_Lookup.csv
 
-/proceed with the BFG Repo-Cleaner Datasets/Processed-Data/Police-Data/Street_Police_Data_Cleaned_LSAO_2020_2024.csv
 
 # Ignore large processed map data file
+Datasets/Processed-Data/Police-Data/Street_Police_Data_Cleaned_LSAO_2020_2024.csv
 Datasets/Processed-Data/Map-Data/LSOA_MSOA_Lookup_Cleaned.csv
